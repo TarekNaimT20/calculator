@@ -1,0 +1,51 @@
+.maindiv{
+    text-align: center;
+
+}
+.sec{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 450px;
+    font-size: 0px;
+    box-shadow: 1px 1px 1px 1px rgb(231, 220, 220);
+}
+
+.sec:hover{
+    box-shadow: 1px 2px 30px 1px  black;
+}
+
+#box1{
+    width: 280px;
+    height: 70px;
+    font-weight: 100;
+    font-size: 35px ;
+    text-align: right;
+    letter-spacing: 1px;
+    background-color: bisque;
+
+    
+}
+
+ .ccc{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(69, 48, 48);
+    color: white;
+    font-size: 20px;
+ }
+ .ccc:hover{
+    background-color: blueviolet;
+
+ }
+
+ .ccc9{
+    width: 70px;
+    height: 70px;
+    background-color: cornflowerblue;
+    font-size: 20px;
+    color: #ffffff;
+
+ }
+ .ccc9:hover{
+    background-color: rgb(0, 0, 0);
+ }
